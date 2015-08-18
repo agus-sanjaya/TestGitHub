@@ -12,6 +12,7 @@ namespace TestGitHub
         {
             Console.WriteLine("Helo World!");
             Console.WriteLine("Second commit");
+            Console.WriteLine("Second commit");
         }
     }
 }
